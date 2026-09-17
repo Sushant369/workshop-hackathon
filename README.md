@@ -1,5 +1,7 @@
 # Neo4j Insurance MCP Server
 
+**Demo video**: [`Demo-claims-agent.mp4`](Demo-claims-agent.mp4) — a recorded walkthrough included in this repo, see it for a live reference of the tools in action.
+
 A local MCP server exposing underwriting-analysis tools over a Neo4j knowledge graph. This file covers **how to run it**. For what it is, why it matters, the full data model, and a demo script, see [HACKATHON.md](HACKATHON.md).
 
 ## Prerequisites
@@ -140,6 +142,13 @@ requirements.txt
 .mcp.json                    # registers neo4j-mcp, neo4j-graphacademy, neo4j-insurance
 HACKATHON.md                 # full project write-up + demo script
 ```
+
+## Graph Screenshot
+
+<img width="2540" height="1484" alt="image" src="https://github.com/user-attachments/assets/a24f58e6-c48b-4649-b5ff-1ea0d22c74a8" />
+
+
+
 
 ## Troubleshooting
 
