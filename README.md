@@ -102,6 +102,21 @@ npx skills add https://github.com/neo4j-contrib/neo4j-skills
 /clear-data-model
 ```
 
+### Claude Code?
+
+Install Claude Code on your workspace and ask your instructor for a key.
+
+```
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+Then add your MCP servers:
+
+```
+claude mcp add --transport http neo4j-graphacademy https://mcp.graphacademy.neo4j.com/mcp
+claude mcp add --transport http neo4j-instance https://<instance-id>.mcp-instances.neo4j.io
+```
+
 ## Need Data for Your Hack?
 
 ### Explore Neo4j Example Datasets
