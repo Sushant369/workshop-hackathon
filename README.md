@@ -1,9 +1,5 @@
 # Neo4j Mini Agentic Hack
 
-## Presentation Content
-
-[View the presentation content](https://docs.google.com/presentation/d/1A7O_-EDGA567VVYQxoOAjAb9f1POSjRKQBAaYGjgtPY/edit?usp=sharing).
-
 ## Workshop Content
 
 [Complete the workshop to receive a Neo4j Certificate of Completion](https://github.com/neo4j-graphacademy/workshop-hackathon).
