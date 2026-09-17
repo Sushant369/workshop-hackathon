@@ -2,7 +2,7 @@
 	"servers": {
 		"neo4j-mcp": {
 			"type": "http",
-			"url": "https://<instance-id>.mcp-instances.neo4j.io"
+			"url": "https://40ce6132.mcp-instances.neo4j.io"
 		},
 		"neo4j-graphacademy": {
 			"type": "http",
@@ -11,3 +11,6 @@
 	},
 	"inputs": []
 }
+
+
+

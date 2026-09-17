@@ -1,0 +1,8 @@
+Claim: CLM-00001
+Policyholder: Meridian Manufacturing Co.
+Date of Loss: 2025-07-26
+Location: Phoenix, AZ
+Cause of Loss: Wind/Hail
+Incurred: $125,000
+
+Storm event caused roof and exterior siding damage. Jordan Ellis (contractor) provided repair estimate. Hail impact marks consistent across parking structure. No structural compromise identified during initial inspection.

@@ -1,0 +1,17 @@
+LOSS RUN REPORT
+Report ID: LRR-PH-004-2026
+Policyholder: Vantage Logistics Inc. (PH-004)
+Industry: Logistics
+Policies: POL-0006 (General Liability), POL-0007 (Cyber)
+Generated: 2026-09-17
+
+SUMMARY
+This account has 6 claims on record across 2 policies, totaling $434,000 incurred ($330,600 paid, $103,400 reserved). The most frequent cause of loss is Slip and Fall, accounting for 2 of 6 claims.
+
+CLAIM DETAIL
+Claim CLM-00016 on policy POL-0006: a Slip and Fall loss on 2026-07-30 at Denver, CO, status Closed, incurred $210,000 ($168,000 paid, $42,000 reserved).
+Claim CLM-00017 on policy POL-0006: a Slip and Fall loss on 2026-06-20 at Austin, TX, status Open, incurred $8,000 ($4,800 paid, $3,200 reserved).
+Claim CLM-00019 on policy POL-0007: a Business Email Compromise loss on 2025-11-20 at Atlanta, GA, status Closed, incurred $15,000 ($0 paid, $15,000 reserved).
+Claim CLM-00020 on policy POL-0007: a Data Breach loss on 2024-08-18 at Atlanta, GA, status Closed, incurred $125,000 ($100,000 paid, $25,000 reserved).
+Claim CLM-00018 on policy POL-0006: a Property Damage to Third Party loss on 2024-07-01 at Columbus, OH, status Reopened, incurred $15,000 ($9,000 paid, $6,000 reserved).
+Claim CLM-00015 on policy POL-0006: a Property Damage to Third Party loss on 2024-06-12 at Chicago, IL, status Closed, incurred $61,000 ($48,800 paid, $12,200 reserved).

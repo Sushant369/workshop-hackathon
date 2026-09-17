@@ -1,0 +1,8 @@
+Claim: CLM-00042
+Policyholder: Meridian Manufacturing Co.
+Date of Loss: 2026-05-20
+Location: Chicago, IL
+Cause of Loss: Fire
+Incurred: $47,500
+
+Adjuster on-site 1 days after loss. Fire originated near the electrical panel in the retail floor. Priya Nair (witness) was contacted to assess restoration scope. Smoke damage extended to adjoining storage area. No injuries reported. Preliminary cause: electrical fault, pending fire marshal report.

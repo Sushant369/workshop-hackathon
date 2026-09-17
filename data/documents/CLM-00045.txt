@@ -1,0 +1,8 @@
+Claim: CLM-00045
+Policyholder: Cascade Construction LLC
+Date of Loss: 2026-08-31
+Location: Columbus, OH
+Cause of Loss: Ransomware
+Incurred: $52,500
+
+Ransomware encrypted core systems affecting distribution facility operations. Coastal Roofing Services engaged for incident response and forensics. Business interruption period estimated at 5-7 days. No confirmed data exfiltration at this stage.

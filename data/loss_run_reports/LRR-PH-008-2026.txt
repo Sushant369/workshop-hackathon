@@ -1,0 +1,15 @@
+LOSS RUN REPORT
+Report ID: LRR-PH-008-2026
+Policyholder: Summit Real Estate Holdings (PH-008)
+Industry: Real Estate
+Policies: POL-0013 (Cyber)
+Generated: 2026-09-17
+
+SUMMARY
+This account has 4 claims on record across 1 policy, totaling $411,000 incurred ($322,000 paid, $89,000 reserved). The most frequent cause of loss is Business Email Compromise, accounting for 3 of 4 claims.
+
+CLAIM DETAIL
+Claim CLM-00038 on policy POL-0013: a Business Email Compromise loss on 2026-06-28 at Portland, OR, status Closed, incurred $61,000 ($0 paid, $61,000 reserved).
+Claim CLM-00039 on policy POL-0013: a Business Email Compromise loss on 2026-06-21 at Austin, TX, status Closed, incurred $210,000 ($210,000 paid, $0 reserved).
+Claim CLM-00037 on policy POL-0013: a Business Email Compromise loss on 2026-06-20 at Chicago, IL, status Open, incurred $125,000 ($100,000 paid, $25,000 reserved).
+Claim CLM-00036 on policy POL-0013: a Data Breach loss on 2024-08-13 at Columbus, OH, status Closed, incurred $15,000 ($12,000 paid, $3,000 reserved).

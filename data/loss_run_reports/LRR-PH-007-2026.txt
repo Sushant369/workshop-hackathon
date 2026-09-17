@@ -1,0 +1,16 @@
+LOSS RUN REPORT
+Report ID: LRR-PH-007-2026
+Policyholder: Fieldstone Technology Corp. (PH-007)
+Industry: Technology
+Policies: POL-0011 (Property), POL-0012 (Workers Comp)
+Generated: 2026-09-17
+
+SUMMARY
+This account has 5 claims on record across 2 policies, totaling $150,000 incurred ($110,200 paid, $39,800 reserved). The most frequent cause of loss is Water Damage, accounting for 1 of 5 claims.
+
+CLAIM DETAIL
+Claim CLM-00033 on policy POL-0011: a Water Damage loss on 2026-05-15 at Columbus, OH, status Closed, incurred $47,500 ($28,500 paid, $19,000 reserved).
+Claim CLM-00031 on policy POL-0011: a Wind/Hail loss on 2026-02-12 at Portland, OR, status Closed, incurred $15,000 ($15,000 paid, $0 reserved).
+Claim CLM-00035 on policy POL-0012: a Equipment Injury loss on 2025-07-15 at Portland, OR, status Reopened, incurred $32,000 ($19,200 paid, $12,800 reserved).
+Claim CLM-00034 on policy POL-0012: a Slip and Fall loss on 2025-07-04 at Columbus, OH, status Closed, incurred $47,500 ($47,500 paid, $0 reserved).
+Claim CLM-00032 on policy POL-0011: a Vandalism loss on 2025-05-22 at Austin, TX, status Open, incurred $8,000 ($0 paid, $8,000 reserved).

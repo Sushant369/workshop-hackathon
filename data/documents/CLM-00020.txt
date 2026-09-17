@@ -1,0 +1,8 @@
+Claim: CLM-00020
+Policyholder: Vantage Logistics Inc.
+Date of Loss: 2024-08-18
+Location: Atlanta, GA
+Cause of Loss: Data Breach
+Incurred: $125,000
+
+Unauthorized access detected affecting customer records tied to north wing office systems. Dwayne Hutchins (third-party driver) engaged for breach forensics and notification support. Scope of affected records still being determined.

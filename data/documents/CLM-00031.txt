@@ -1,0 +1,8 @@
+Claim: CLM-00031
+Policyholder: Fieldstone Technology Corp.
+Date of Loss: 2026-02-12
+Location: Portland, OR
+Cause of Loss: Wind/Hail
+Incurred: $15,000
+
+Storm event caused roof and exterior siding damage. Alvarez Plumbing & Repair provided repair estimate. Hail impact marks consistent across parking structure. No structural compromise identified during initial inspection.

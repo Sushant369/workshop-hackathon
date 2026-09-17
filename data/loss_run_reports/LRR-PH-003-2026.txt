@@ -1,0 +1,18 @@
+LOSS RUN REPORT
+Report ID: LRR-PH-003-2026
+Policyholder: Cascade Construction LLC (PH-003)
+Industry: Construction
+Policies: POL-0004 (Cyber), POL-0005 (Workers Comp)
+Generated: 2026-09-17
+
+SUMMARY
+This account has 7 claims on record across 2 policies, totaling $784,500 incurred ($368,900 paid, $415,600 reserved). The most frequent cause of loss is Ransomware, accounting for 3 of 7 claims.
+
+CLAIM DETAIL
+Claim CLM-00045 on policy POL-0004: a Ransomware loss on 2026-08-31 at Columbus, OH, status Closed, incurred $52,500 ($52,500 paid, $0 reserved).
+Claim CLM-00044 on policy POL-0004: a Ransomware loss on 2026-08-28 at Columbus, OH, status Reopened, incurred $54,000 ($0 paid, $54,000 reserved).
+Claim CLM-00012 on policy POL-0004: a Data Breach loss on 2026-03-10 at Chicago, IL, status Reopened, incurred $125,000 ($100,000 paid, $25,000 reserved).
+Claim CLM-00014 on policy POL-0005: a Slip and Fall loss on 2026-01-27 at Denver, CO, status Closed, incurred $210,000 ($210,000 paid, $0 reserved).
+Claim CLM-00013 on policy POL-0005: a Slip and Fall loss on 2025-03-17 at Charlotte, NC, status Reopened, incurred $210,000 ($0 paid, $210,000 reserved).
+Claim CLM-00010 on policy POL-0004: a Ransomware loss on 2025-01-29 at Austin, TX, status Closed, incurred $125,000 ($0 paid, $125,000 reserved).
+Claim CLM-00011 on policy POL-0004: a Business Email Compromise loss on 2024-06-22 at Denver, CO, status Closed, incurred $8,000 ($6,400 paid, $1,600 reserved).

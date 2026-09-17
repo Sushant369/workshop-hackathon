@@ -1,0 +1,8 @@
+Claim: CLM-00010
+Policyholder: Cascade Construction LLC
+Date of Loss: 2025-01-29
+Location: Austin, TX
+Cause of Loss: Ransomware
+Incurred: $125,000
+
+Ransomware encrypted core systems affecting retail floor operations. Alvarez Plumbing & Repair engaged for incident response and forensics. Business interruption period estimated at 5-7 days. No confirmed data exfiltration at this stage.

@@ -1,0 +1,8 @@
+Claim: CLM-00012
+Policyholder: Cascade Construction LLC
+Date of Loss: 2026-03-10
+Location: Chicago, IL
+Cause of Loss: Data Breach
+Incurred: $125,000
+
+Unauthorized access detected affecting customer records tied to loading dock systems. Metro Fire Restoration engaged for breach forensics and notification support. Scope of affected records still being determined.

@@ -1,0 +1,18 @@
+LOSS RUN REPORT
+Report ID: LRR-PH-001-2026
+Policyholder: Meridian Manufacturing Co. (PH-001)
+Industry: Manufacturing
+Policies: POL-0001 (Property)
+Generated: 2026-09-17
+
+SUMMARY
+This account has 7 claims on record across 1 policy, totaling $429,000 incurred ($380,500 paid, $48,500 reserved). The most frequent cause of loss is Fire, accounting for 5 of 7 claims.
+
+CLAIM DETAIL
+Claim CLM-00043 on policy POL-0001: a Fire loss on 2026-08-03 at Chicago, IL, status Closed, incurred $61,000 ($61,000 paid, $0 reserved).
+Claim CLM-00042 on policy POL-0001: a Fire loss on 2026-05-20 at Chicago, IL, status Closed, incurred $47,500 ($47,500 paid, $0 reserved).
+Claim CLM-00003 on policy POL-0001: a Vandalism loss on 2026-01-14 at Denver, CO, status Closed, incurred $15,000 ($9,000 paid, $6,000 reserved).
+Claim CLM-00041 on policy POL-0001: a Fire loss on 2025-12-31 at Chicago, IL, status Closed, incurred $125,000 ($125,000 paid, $0 reserved).
+Claim CLM-00002 on policy POL-0001: a Fire loss on 2025-12-27 at Denver, CO, status Open, incurred $47,500 ($38,000 paid, $9,500 reserved).
+Claim CLM-00040 on policy POL-0001: a Fire loss on 2025-08-13 at Chicago, IL, status Open, incurred $8,000 ($0 paid, $8,000 reserved).
+Claim CLM-00001 on policy POL-0001: a Wind/Hail loss on 2025-07-26 at Phoenix, AZ, status Open, incurred $125,000 ($100,000 paid, $25,000 reserved).

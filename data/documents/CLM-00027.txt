@@ -1,0 +1,8 @@
+Claim: CLM-00027
+Policyholder: Northgate Healthcare Partners
+Date of Loss: 2026-02-05
+Location: Austin, TX
+Cause of Loss: Ransomware
+Incurred: $125,000
+
+Ransomware encrypted core systems affecting corporate headquarters operations. GreenLeaf Property Management engaged for incident response and forensics. Business interruption period estimated at 5-7 days. No confirmed data exfiltration at this stage.

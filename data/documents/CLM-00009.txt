@@ -1,0 +1,8 @@
+Claim: CLM-00009
+Policyholder: Brightline Retail Group
+Date of Loss: 2026-06-14
+Location: Atlanta, GA
+Cause of Loss: Data Breach
+Incurred: $61,000
+
+Unauthorized access detected affecting customer records tied to main warehouse systems. Tessa Whitfield (tenant) engaged for breach forensics and notification support. Scope of affected records still being determined.

@@ -1,0 +1,8 @@
+Claim: CLM-00008
+Policyholder: Brightline Retail Group
+Date of Loss: 2026-03-15
+Location: Columbus, OH
+Cause of Loss: Business Email Compromise
+Incurred: $210,000
+
+Fraudulent wire transfer initiated via compromised email account in north wing office finance team. Priya Nair (witness) engaged to trace fund flow. Insured's bank notified; recovery efforts in progress.

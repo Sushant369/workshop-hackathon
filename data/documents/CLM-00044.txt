@@ -1,0 +1,8 @@
+Claim: CLM-00044
+Policyholder: Cascade Construction LLC
+Date of Loss: 2026-08-28
+Location: Columbus, OH
+Cause of Loss: Ransomware
+Incurred: $54,000
+
+Ransomware encrypted core systems affecting third-floor storage room operations. Alvarez Plumbing & Repair engaged for incident response and forensics. Business interruption period estimated at 5-7 days. No confirmed data exfiltration at this stage.

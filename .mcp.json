@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "neo4j-mcp": {
+      "type": "http",
+      "url": "https://40ce6132.mcp-instances.neo4j.io"
+    },
+    "neo4j-graphacademy": {
+      "type": "http",
+      "url": "https://mcp.graphacademy.neo4j.com/mcp"
+    },
+    "neo4j-insurance": {
+      "type": "http",
+      "url": "http://127.0.0.1:8000/mcp"
+    }
+  }
+}

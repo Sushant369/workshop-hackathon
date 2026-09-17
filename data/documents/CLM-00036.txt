@@ -1,0 +1,8 @@
+Claim: CLM-00036
+Policyholder: Summit Real Estate Holdings
+Date of Loss: 2024-08-13
+Location: Columbus, OH
+Cause of Loss: Data Breach
+Incurred: $15,000
+
+Unauthorized access detected affecting customer records tied to corporate headquarters systems. Metro Fire Restoration engaged for breach forensics and notification support. Scope of affected records still being determined.

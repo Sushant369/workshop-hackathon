@@ -1,0 +1,8 @@
+Claim: CLM-00002
+Policyholder: Meridian Manufacturing Co.
+Date of Loss: 2025-12-27
+Location: Denver, CO
+Cause of Loss: Fire
+Incurred: $47,500
+
+Adjuster on-site 5 days after loss. Fire originated near the electrical panel in the main warehouse. Metro Fire Restoration was contacted to assess restoration scope. Smoke damage extended to adjoining storage area. No injuries reported. Preliminary cause: electrical fault, pending fire marshal report.

@@ -1,0 +1,8 @@
+Claim: CLM-00038
+Policyholder: Summit Real Estate Holdings
+Date of Loss: 2026-06-28
+Location: Portland, OR
+Cause of Loss: Business Email Compromise
+Incurred: $61,000
+
+Fraudulent wire transfer initiated via compromised email account in third-floor storage room finance team. Jordan Ellis (contractor) engaged to trace fund flow. Insured's bank notified; recovery efforts in progress.

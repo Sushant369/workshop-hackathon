@@ -1,0 +1,15 @@
+LOSS RUN REPORT
+Report ID: LRR-PH-005-2026
+Policyholder: Harborview Hospitality Group (PH-005)
+Industry: Hospitality
+Policies: POL-0008 (Workers Comp)
+Generated: 2026-09-17
+
+SUMMARY
+This account has 4 claims on record across 1 policy, totaling $152,000 incurred ($152,000 paid, $0 reserved). The most frequent cause of loss is Slip and Fall, accounting for 3 of 4 claims.
+
+CLAIM DETAIL
+Claim CLM-00023 on policy POL-0008: a Slip and Fall loss on 2026-08-11 at Chicago, IL, status Closed, incurred $15,000 ($15,000 paid, $0 reserved).
+Claim CLM-00024 on policy POL-0008: a Equipment Injury loss on 2026-07-17 at Austin, TX, status Closed, incurred $61,000 ($61,000 paid, $0 reserved).
+Claim CLM-00022 on policy POL-0008: a Slip and Fall loss on 2025-09-06 at Phoenix, AZ, status Closed, incurred $61,000 ($61,000 paid, $0 reserved).
+Claim CLM-00021 on policy POL-0008: a Slip and Fall loss on 2025-05-13 at Phoenix, AZ, status Closed, incurred $15,000 ($15,000 paid, $0 reserved).

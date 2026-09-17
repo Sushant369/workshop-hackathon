@@ -1,0 +1,8 @@
+Claim: CLM-00040
+Policyholder: Meridian Manufacturing Co.
+Date of Loss: 2025-08-13
+Location: Chicago, IL
+Cause of Loss: Fire
+Incurred: $8,000
+
+Adjuster on-site 2 days after loss. Fire originated near the electrical panel in the distribution facility. Priya Nair (witness) was contacted to assess restoration scope. Smoke damage extended to adjoining storage area. No injuries reported. Preliminary cause: electrical fault, pending fire marshal report.

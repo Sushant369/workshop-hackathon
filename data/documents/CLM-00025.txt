@@ -1,0 +1,8 @@
+Claim: CLM-00025
+Policyholder: Northgate Healthcare Partners
+Date of Loss: 2024-10-02
+Location: Phoenix, AZ
+Cause of Loss: Data Breach
+Incurred: $61,000
+
+Unauthorized access detected affecting customer records tied to main warehouse systems. Metro Fire Restoration engaged for breach forensics and notification support. Scope of affected records still being determined.

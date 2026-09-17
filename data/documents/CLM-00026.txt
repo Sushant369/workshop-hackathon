@@ -1,0 +1,8 @@
+Claim: CLM-00026
+Policyholder: Northgate Healthcare Partners
+Date of Loss: 2024-08-08
+Location: Portland, OR
+Cause of Loss: Business Email Compromise
+Incurred: $15,000
+
+Fraudulent wire transfer initiated via compromised email account in parking structure finance team. Coastal Roofing Services engaged to trace fund flow. Insured's bank notified; recovery efforts in progress.

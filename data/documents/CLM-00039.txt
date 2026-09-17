@@ -1,0 +1,8 @@
+Claim: CLM-00039
+Policyholder: Summit Real Estate Holdings
+Date of Loss: 2026-06-21
+Location: Austin, TX
+Cause of Loss: Business Email Compromise
+Incurred: $210,000
+
+Fraudulent wire transfer initiated via compromised email account in third-floor storage room finance team. Tessa Whitfield (tenant) engaged to trace fund flow. Insured's bank notified; recovery efforts in progress.

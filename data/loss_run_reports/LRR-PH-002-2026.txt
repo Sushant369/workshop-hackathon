@@ -1,0 +1,17 @@
+LOSS RUN REPORT
+Report ID: LRR-PH-002-2026
+Policyholder: Brightline Retail Group (PH-002)
+Industry: Retail
+Policies: POL-0002 (Property), POL-0003 (Cyber)
+Generated: 2026-09-17
+
+SUMMARY
+This account has 6 claims on record across 2 policies, totaling $636,000 incurred ($402,600 paid, $233,400 reserved). The most frequent cause of loss is Theft, accounting for 2 of 6 claims.
+
+CLAIM DETAIL
+Claim CLM-00009 on policy POL-0003: a Data Breach loss on 2026-06-14 at Atlanta, GA, status Reopened, incurred $61,000 ($36,600 paid, $24,400 reserved).
+Claim CLM-00008 on policy POL-0003: a Business Email Compromise loss on 2026-03-15 at Columbus, OH, status Reopened, incurred $210,000 ($126,000 paid, $84,000 reserved).
+Claim CLM-00004 on policy POL-0002: a Water Damage loss on 2025-05-06 at Charlotte, NC, status Closed, incurred $15,000 ($15,000 paid, $0 reserved).
+Claim CLM-00007 on policy POL-0002: a Theft loss on 2025-03-15 at Austin, TX, status Closed, incurred $210,000 ($210,000 paid, $0 reserved).
+Claim CLM-00006 on policy POL-0002: a Theft loss on 2024-12-29 at Denver, CO, status Closed, incurred $15,000 ($15,000 paid, $0 reserved).
+Claim CLM-00005 on policy POL-0002: a Vandalism loss on 2024-07-17 at Charlotte, NC, status Closed, incurred $125,000 ($0 paid, $125,000 reserved).

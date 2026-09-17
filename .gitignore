@@ -128,7 +128,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-# .env
+.env
+Neo4j-*-Created-*.txt
 .venv
 env/
 venv/
@@ -199,3 +200,4 @@ neo4j-mcp/
 # neo4j skills
 .agents/skills/neo4j*
 /skills-lock.json
+.env

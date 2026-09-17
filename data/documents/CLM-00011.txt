@@ -1,0 +1,8 @@
+Claim: CLM-00011
+Policyholder: Cascade Construction LLC
+Date of Loss: 2024-06-22
+Location: Denver, CO
+Cause of Loss: Business Email Compromise
+Incurred: $8,000
+
+Fraudulent wire transfer initiated via compromised email account in loading dock finance team. Dwayne Hutchins (third-party driver) engaged to trace fund flow. Insured's bank notified; recovery efforts in progress.

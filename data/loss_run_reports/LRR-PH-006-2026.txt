@@ -1,0 +1,17 @@
+LOSS RUN REPORT
+Report ID: LRR-PH-006-2026
+Policyholder: Northgate Healthcare Partners (PH-006)
+Industry: Healthcare
+Policies: POL-0009 (Cyber), POL-0010 (Auto)
+Generated: 2026-09-17
+
+SUMMARY
+This account has 6 claims on record across 2 policies, totaling $597,000 incurred ($516,600 paid, $80,400 reserved). The most frequent cause of loss is Vandalism, accounting for 2 of 6 claims.
+
+CLAIM DETAIL
+Claim CLM-00029 on policy POL-0010: a Vandalism loss on 2026-06-17 at Denver, CO, status Closed, incurred $210,000 ($210,000 paid, $0 reserved).
+Claim CLM-00027 on policy POL-0009: a Ransomware loss on 2026-02-05 at Austin, TX, status Closed, incurred $125,000 ($75,000 paid, $50,000 reserved).
+Claim CLM-00030 on policy POL-0010: a Rear-End Collision loss on 2025-12-07 at Phoenix, AZ, status Closed, incurred $61,000 ($36,600 paid, $24,400 reserved).
+Claim CLM-00028 on policy POL-0010: a Vandalism loss on 2025-06-24 at Chicago, IL, status Closed, incurred $125,000 ($125,000 paid, $0 reserved).
+Claim CLM-00025 on policy POL-0009: a Data Breach loss on 2024-10-02 at Phoenix, AZ, status Closed, incurred $61,000 ($61,000 paid, $0 reserved).
+Claim CLM-00026 on policy POL-0009: a Business Email Compromise loss on 2024-08-08 at Portland, OR, status Closed, incurred $15,000 ($9,000 paid, $6,000 reserved).

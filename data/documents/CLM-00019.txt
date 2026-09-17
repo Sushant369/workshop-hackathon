@@ -1,0 +1,8 @@
+Claim: CLM-00019
+Policyholder: Vantage Logistics Inc.
+Date of Loss: 2025-11-20
+Location: Atlanta, GA
+Cause of Loss: Business Email Compromise
+Incurred: $15,000
+
+Fraudulent wire transfer initiated via compromised email account in retail floor finance team. Jordan Ellis (contractor) engaged to trace fund flow. Insured's bank notified; recovery efforts in progress.
